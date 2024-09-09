@@ -14,6 +14,7 @@
   <meta name="og:type" content="product" />
   <meta name="og:description" content="Kitab Gacor adalah aplikasi pemicu yang di rancang untuk memberikan peluang besar bagi penggunanya untuk mempermudah dalam mendapatkan perkalian hingga x1000. Aplikasi ini tidak memerlukan trik atau pola apapun dalam penggunaannya, sebab aplikasi ini sudah terbukti akurat dengan sistem yang canggih dan sangat jauh berbeda di bandingkan dengan aplikasi cheat lainnya. Dan pada intinya kitab gacor ini merupakan aplikasi yang di rancang untuk meningkatkan performa pengguna hingga 1000 kali lipat tanpa memerlukan pola atau cara apapun." />
   <meta name="og:image" content="https://luarbiasa.live/gambar/8.png" />
+  <meta name="google-site-verification" content="NFpjE4AhGt1hD_tlEdX7WEmkOrVQS1mHiX65h9q8NrU" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="icon" type="image/x-icon" href="https://www.wikipedia.org/static/favicon/wikipedia.ico"/>
   <link rel="canonical" href="https://ejournal.staiduba.ac.id/course/index.php" />
